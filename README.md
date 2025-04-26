@@ -27,4 +27,29 @@ My passion is combining advanced mathematical modeling, smart automation, and da
 <!-- Machine Learning -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6842?style=for-the-badge&logo=xgboost&logoColor=white)
-![
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<!-- Statistical Modeling -->
+![statsmodels](https://img.shields.io/badge/Statsmodels-3C3C3C?style=for-the-badge&logo=statsmodels&logoColor=white)
+
+<!-- Visualization -->
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
+
+<!-- Databases -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+</div>
+
+- Machine Learning (including Deep Learning)
+- Hyperparameter Tuning (Machine Learning and Deep Learning)
+- Time Series Analysis (ARIMA, GARCH)
+
+## Contact ✉️
+
+- [LinkedIn](https://www.linkedin.com/in/john98x)
+- Email: yehonatanjastor@gmail.com
+
+---
+
+*Thank you for visiting my profile! I'm always open to collaborations, new ideas, or professional discussions.*
