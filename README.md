@@ -2,19 +2,22 @@
 
 Welcome to my GitHub!
 
-I'm a Financial Mathematics M.Sc. student at Bar-Ilan University, specializing in financial machine learning, asset pricing, and time series modeling.
-
-My work bridges theory and application — combining advanced quantitative methods, automation, and domain knowledge to produce meaningful financial insights and practical tools.
+I'm an M.Sc. student in Financial Mathematics at Bar-Ilan University, specializing in **machine learning, econometrics, and stochastic modeling for financial markets**.  
+I focus on turning advanced theory into practical tools for **trading, asset pricing, and portfolio optimization**.
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 Areas of Strength & Interest
 
-- Quantitative Research & Financial Machine Learning  
-- Algorithmic & Statistical Trading  
-- Stochastic Processes & Time Series Forecasting  
-- Asset Pricing, Portfolio Optimization & Risk Management  
-- Applied Econometrics & Macroeconomic Modeling
+- Machine Learning & Applied Statistics  
+- Econometrics & Stochastic Process Modeling  
+- Asset Pricing & Derivatives (Black-Scholes, CAPM, Factor Models)  
+- Portfolio Optimization & Risk Allocation 
+- Time Series Analysis & Forecasting (ARIMA, GARCH, VAR, MMs)  
+- Quantitative Research for Algorithmic & Statistical Trading  
+- Risk Modeling & Uncertainty Quantification 
+- Mathematical Optimization & Numerical Methods  
+- Financial Data Engineering
 
 ---
 
@@ -40,26 +43,31 @@ My work bridges theory and application — combining advanced quantitative metho
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
 
+<!-- Optimization & Tools -->
+![cvxpy](https://img.shields.io/badge/cvxpy-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
+
 ---
 
 ## 📁 Selected Projects
 
-- **Market Regime Detection using Markov Chains & Machine Learning**  
-  Time series segmentation, clustering, transition matrix analysis, XGBoost classification.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Market-Regime-Intelligence)
+- **🏆 Market Regime Intelligence**  
+  Regime detection for financial markets using PCA, clustering, classification, Markov chains, and hyperparameter optimization.  
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/market-regime-intelligence)
 
-- **Imbalance Volume Bars for High-Frequency Price Data**  
-  Implementation of volume-based bar construction (per López de Prado) with comparison to standard time bars.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/imbalance-volume-bars)
+- **⚖️ Vectorized Black-Scholes & Greeks**  
+  Fast option pricing and Greeks calculation with stochastic foundations, including implied volatility estimation and visualization.  
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/Black-Scholes/tree/main/notebooks)
 
-- **Vectorized Black-Scholes & Implied Volatility Surface**  
-  Greeks calculation, IV estimation, surface construction and visualization.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Black-Scholes)
+- **📈 Modern Portfolio Optimization**  
+  Portfolio optimization with cvxpy (CAPM, Markowitz) and advanced PCA-based risk allocation inspired by López de Prado.  
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/modern-portfolio)
 
-- **Portfolio Optimization with CAPM and Multi-Factor Models**  
-  OLS from scratch, efficient frontier, CAPM alphas and betas, visualization.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Modern-Portfolio)
+- **📉 Imbalance Volume Bars (Experimental)**  
+  Early research project experimenting with imbalance volume bars (per López de Prado).
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)
 
 ---
 
@@ -67,19 +75,17 @@ My work bridges theory and application — combining advanced quantitative metho
 
 - Machine Learning (Supervised, Unsupervised, Deep Learning)  
 - Hyperparameter Tuning & Model Evaluation  
-- Time Series Analysis (ARIMA, GARCH, Regime Switching)  
+- Time Series Analysis (ARIMA, GARCH, Regime Switching, HMMs)  
 - Feature Engineering & Data Preprocessing  
-- Statistical Inference & Explainability  
-- Financial Modeling and Simulation
+- Statistical Inference & Model Explainability  
+- Financial Modeling & Simulation  
+- Model Validation & Backtesting  
+- Optimization & Numerical Methods  
+- Risk Management & Stress Testing  
 
 ---
 
 ## ✉️ Contact
 
-- [LinkedIn](https://www.linkedin.com/in/john98x)  
-- 📬 Email: yehonatanjastor@gmail.com
-
----
-
-*Thank you for visiting my profile! I'm always open to collaborations, ideas, or professional discussions.*
-
+📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
