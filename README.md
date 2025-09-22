@@ -87,5 +87,5 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
 
 ## ✉️ Contact
 
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+📧 Email: Yehonatanjastor@gmail.com
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/john98x/))  
