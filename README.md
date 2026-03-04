@@ -9,15 +9,15 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
 
 ## 🔬 Areas of Strength & Interest
 
-- Machine Learning & Applied Statistics  
-- Econometrics & Stochastic Process Modeling  
-- Asset Pricing & Derivatives (Black-Scholes, CAPM, Factor Models)  
-- Portfolio Optimization & Risk Allocation 
-- Time Series Analysis & Forecasting (ARIMA, GARCH, VAR, MMs)  
-- Quantitative Research for Algorithmic & Statistical Trading  
-- Risk Modeling & Uncertainty Quantification 
-- Mathematical Optimization & Numerical Methods  
-- Financial Data Engineering
+- Machine Learning & Applied Statistical Modeling  
+- Econometrics & Stochastic Processes  
+- Financial Time-Series Analysis (ARIMA, GARCH, VAR, Markov Models)  
+- Predictive Signal Modeling & Alpha Research  
+- Asset Pricing Models
+- Derivatives Pricing
+- Portfolio Construction & Optimization  
+- Risk Modeling & Uncertainty Quantification   
+- Financial Data Analysis & Engineering
 
 ---
 
@@ -80,7 +80,7 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
 
 - Machine Learning (Supervised, Unsupervised, Deep Learning)  
 - Hyperparameter Tuning & Model Evaluation  
-- Time Series Analysis (ARIMA, GARCH, Regime Switching, HMMs)  
+- Time Series Analysis (ARIMA, GARCH, Regime Switching)  
 - Feature Engineering & Data Preprocessing  
 - Statistical Inference & Model Explainability  
 - Financial Modeling & Simulation  
