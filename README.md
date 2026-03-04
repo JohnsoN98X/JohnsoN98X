@@ -54,20 +54,25 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
 ## 📁 Selected Projects
 
 - **🏆 Market Regime Intelligence**  
-  Regime detection for financial markets using PCA, clustering, classification, Markov chains, and hyperparameter optimization.  
+  Research framework for detecting market regimes in financial time-series using PCA, clustering, classification models, and Markov chains, with hyperparameter optimization and stability evaluation.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/market-regime-intelligence)
 
+- **🧠 Meta-Labeling for Predictive Signals**  
+  Implementation of financial labeling techniques including triple-barrier labeling and meta-labeling to evaluate predictive signals in financial time-series using machine learning models.  
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/financial-labeling)
+
+- **📉 Imbalance Volume Bars (Experimental)**  
+  Early-stage research project experimenting with imbalance volume bars (per López de Prado) for event-based sampling of financial time-series.  
+  👉 [GitHub Repository](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)
+
 - **⚖️ Vectorized Black-Scholes & Greeks**  
-  Fast option pricing and Greeks calculation with stochastic foundations, including implied volatility estimation and visualization.  
+  Vectorized option pricing and Greeks computation with implied volatility estimation and visualization.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/Black-Scholes/tree/main/notebooks)
 
 - **📈 Modern Portfolio Optimization**  
-  Portfolio optimization with cvxpy (CAPM, Markowitz) and advanced PCA-based risk allocation inspired by López de Prado.  
+  Portfolio optimization with cvxpy (CAPM, Markowitz) and PCA-based risk allocation inspired by López de Prado.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/modern-portfolio)
 
-- **📉 Imbalance Volume Bars (Experimental)**  
-  Early research project experimenting with imbalance volume bars (per López de Prado).
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)
 
 ---
 
