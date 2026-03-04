@@ -2,22 +2,19 @@
 
 Welcome to my GitHub!
 
-I'm an M.Sc. student in Financial Mathematics at Bar-Ilan University, specializing in **machine learning, econometrics, and stochastic modeling for financial markets**.  
+I'm an M.Sc. student in Financial Mathematics at Bar-Ilan University, specializing in **quantitative research, machine learning, and stochastic modeling for financial markets**.  
 I focus on turning advanced theory into practical tools for **trading, asset pricing, and portfolio optimization**.
 
 ---
 
 ## 🔬 Areas of Strength & Interest
 
-- Machine Learning & Applied Statistical Modeling  
-- Econometrics & Stochastic Processes  
-- Financial Time-Series Analysis (ARIMA, GARCH, VAR, Markov Models)  
-- Predictive Signal Modeling & Alpha Research  
-- Asset Pricing Models
-- Derivatives Pricing
+- Machine Learning & Statistical Modeling  
+- Financial Time-Series Analysis & Stochastic Processes  
+- Signal Modeling & Alpha Research  
+- Asset Pricing & Derivatives 
 - Portfolio Construction & Optimization  
 - Risk Modeling & Uncertainty Quantification   
-- Financial Data Analysis & Engineering
 
 ---
 
@@ -44,7 +41,6 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
 
 <!-- Optimization & Tools -->
-![cvxpy](https://img.shields.io/badge/cvxpy-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -58,11 +54,11 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
   👉 [GitHub Repository](https://github.com/JohnsoN98X/market-regime-intelligence)
 
 - **🧠 Meta-Labeling for Predictive Signals**  
-  Implementation of financial labeling techniques including triple-barrier labeling and meta-labeling to evaluate predictive signals in financial time-series using machine learning models.  
+  Implementation of financial labeling techniques including triple-barrier labeling and meta-labeling (per López de Prado) to evaluate predictive signals in financial time-series using machine learning models.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/financial-labeling)
 
-- **📉 Imbalance Volume Bars (Experimental)**  
-  Early-stage research project experimenting with imbalance volume bars (per López de Prado) for event-based sampling of financial time-series.  
+- **📉 Imbalance Volume Bars**  
+  Exploration of imbalance volume bars (per López de Prado) as an event-based sampling method of financial time-series.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)
 
 - **⚖️ Vectorized Black-Scholes & Greeks**  
@@ -73,20 +69,6 @@ I focus on turning advanced theory into practical tools for **trading, asset pri
   Portfolio optimization with cvxpy (CAPM, Markowitz) and PCA-based risk allocation inspired by López de Prado.  
   👉 [GitHub Repository](https://github.com/JohnsoN98X/modern-portfolio)
 
-
----
-
-## ⚙️ Technical Skills
-
-- Machine Learning (Supervised, Unsupervised, Deep Learning)  
-- Hyperparameter Tuning & Model Evaluation  
-- Time Series Analysis (ARIMA, GARCH, Regime Switching)  
-- Feature Engineering & Data Preprocessing  
-- Statistical Inference & Model Explainability  
-- Financial Modeling & Simulation  
-- Model Validation & Backtesting  
-- Optimization & Numerical Methods  
-- Risk Management & Stress Testing  
 
 ---
 
