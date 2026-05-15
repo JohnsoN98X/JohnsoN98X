@@ -1,78 +1,76 @@
-# Hi, I'm Yehonatan Zvi Dror 👋
+# Hi, I'm Yehonatan 👋
 
-Welcome to my GitHub!
-
-I'm an M.Sc. student in Financial Mathematics at Bar-Ilan University, specializing in **quantitative research, machine learning, and stochastic modeling for financial markets**.  
-I focus on turning advanced theory into practical tools for **trading, asset pricing, and portfolio optimization**.
+M.Sc. student in Financial Mathematics and Technology at Bar-Ilan University (expected 2026), with a background in Economics.
+I build end-to-end quantitative research pipelines in Python - from data sampling through model validation - across financial ML, time-series modeling, and derivatives pricing.
 
 ---
 
-## 🔬 Areas of Strength & Interest
+## 🔬 Areas of Interest
 
-- Machine Learning & Statistical Modeling  
-- Financial Time-Series Analysis & Stochastic Processes  
-- Signal Modeling & Alpha Research  
-- Asset Pricing & Derivatives 
-- Portfolio Construction & Optimization  
-- Risk Modeling & Uncertainty Quantification   
+- Financial Machine Learning and Signal Research
+- Time-Series Analysis and Stochastic Processes
+- Derivatives Pricing and Greeks
+- Portfolio Construction and Risk Allocation
+- Econometric Inference and Regime Analysis
 
 ---
 
 ## 🛠️ Core Technologies
 
-<div align="center">
-
-<!-- Data Manipulation -->
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-150458?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-<!-- Machine Learning -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6842?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-3A76F0?style=for-the-badge&logo=optuna&logoColor=white)
-
-<!-- Statistical Modeling -->
 ![statsmodels](https://img.shields.io/badge/Statsmodels-3C3C3C?style=for-the-badge&logo=statsmodels&logoColor=white)
-
-<!-- Visualization -->
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
-
-<!-- Optimization & Tools -->
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</div>
+---
+
+## 💼 Experience
+
+**Research Assistant** | Aharon Institute for Economic Policy, Reichman University | 2025 - Present
+
+Authored and synthesized policy papers and econometric research into a 130-page flagship policy report.
+Developed quantitative measurement methods and performed empirical analysis in Python on macroeconomic and financial datasets, applying time-series and econometric methods to identify trends, regime shifts, and structural relationships.
+Presented findings to senior academic and policy stakeholders including the Deputy Governor of the Bank of Israel and Treasury officials.
 
 ---
 
 ## 📁 Selected Projects
 
-- **🏆 Market Regime Intelligence**  
-  Research framework for detecting market regimes in financial time-series using PCA, clustering, classification models, and Markov chains, with hyperparameter optimization and stability evaluation.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/market-regime-intelligence)
+**[Market Regime Intelligence](https://github.com/JohnsoN98X/market-regime-intelligence)**
+End-to-end regime pipeline: KMeans and PCA for regime identification, Isolation Forest and LOF for anomaly detection at global and per-regime levels, discrete-time Markov chain for transition modeling, and Optuna-tuned XGBoost for regime forecasting.
 
-- **🧠 Meta-Labeling for Predictive Signals**  
-  Implementation of financial labeling techniques including triple-barrier labeling and meta-labeling (per López de Prado) to evaluate predictive signals in financial time-series using machine learning models.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/financial-labeling)
+**[Black-Scholes Pricing Engine](https://github.com/JohnsoN98X/black-scholes)**
+Options pricing library for European options with full Greeks and implied volatility via Brent's method, plus a separate vectorized and parallelized engine for batch pricing and volatility-surface generation across large option datasets.
 
-- **📉 Imbalance Volume Bars**  
-  Exploration of imbalance volume bars (per López de Prado) as an event-based sampling method of financial time-series.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)
+**[Portfolio Optimization](https://github.com/JohnsoN98X/modern-portfolio)**
+Modular library spanning classical and modern methods: mean-variance optimization via convex programming (cvxpy), CAPM and OLS factor models, and a PCA-based risk allocator - organized around a shared abstract base class.
 
-- **⚖️ Vectorized Black-Scholes & Greeks**  
-  Vectorized option pricing and Greeks computation with implied volatility estimation and visualization.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/Black-Scholes/tree/main/notebooks)
+**[Meta-Labeling for Predictive Signals](https://github.com/JohnsoN98X/financial-labeling)**
+Meta-labeling framework for filtering trading signals: triple-barrier labeling, custom embargoed time-series cross-validator, calibrated ML classifiers (logistic regression, SVC, random forest, gradient boosting, stacking), and vectorbt backtesting of raw vs. meta-model-enhanced signals.
 
-- **📈 Modern Portfolio Optimization**  
-  Portfolio optimization with cvxpy (CAPM, Markowitz) and PCA-based risk allocation inspired by López de Prado.  
-  👉 [GitHub Repository](https://github.com/JohnsoN98X/modern-portfolio)
+**[Imbalance Volume Bars](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)**
+Information-driven volume-imbalance bars with a custom adaptive-threshold formulation adapted from López de Prado; benchmarked through comparative statistical analysis and XGBoost / LSTM regression experiments.
 
+---
+
+## 🎓 Education
+
+**M.Sc. in Financial Mathematics and Technology** | Bar-Ilan University | Expected Aug 2026
+Stochastic Calculus, Derivative Pricing Models, Quantitative Finance, Portfolio Theory
+
+**B.A. in Economics and Business Administration** | Ariel University | 2021 - 2024
+Econometrics, Financial Theory
 
 ---
 
 ## ✉️ Contact
 
-📧 Email: Yehonatanjastor@gmail.com
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/john98x/))  
+📧 [Yehonatanjastor@gmail.com](mailto:Yehonatanjastor@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/john98x/)
