@@ -1,17 +1,7 @@
 # Hi, I'm Yehonatan 👋
 
-M.Sc. student in Financial Mathematics and Technology at Bar-Ilan University (expected 2026), with a background in Economics.
+M.Sc. in Financial Mathematics and Technology (Bar-Ilan University, expected 2026).
 I build end-to-end quantitative research pipelines in Python - from data sampling through model validation - across financial ML, time-series modeling, and derivatives pricing.
-
----
-
-## 🔬 Areas of Interest
-
-- Financial Machine Learning and Signal Research
-- Time-Series Analysis and Stochastic Processes
-- Derivatives Pricing and Greeks
-- Portfolio Construction and Risk Allocation
-- Econometric Inference and Regime Analysis
 
 ---
 
@@ -31,16 +21,6 @@ I build end-to-end quantitative research pipelines in Python - from data samplin
 
 ---
 
-## 💼 Experience
-
-**Research Assistant** | Aharon Institute for Economic Policy, Reichman University | 2025 - Present
-
-Authored and synthesized policy papers and econometric research into a 130-page flagship policy report.
-Developed quantitative measurement methods and performed empirical analysis in Python on macroeconomic and financial datasets, applying time-series and econometric methods to identify trends, regime shifts, and structural relationships.
-Presented findings to senior academic and policy stakeholders including the Deputy Governor of the Bank of Israel and Treasury officials.
-
----
-
 ## 📁 Selected Projects
 
 **[Market Regime Intelligence](https://github.com/JohnsoN98X/market-regime-intelligence)**
@@ -57,16 +37,6 @@ Meta-labeling framework for filtering trading signals: triple-barrier labeling, 
 
 **[Imbalance Volume Bars](https://github.com/JohnsoN98X/Imbalance-Volume-Bars)**
 Information-driven volume-imbalance bars with a custom adaptive-threshold formulation adapted from López de Prado; benchmarked through comparative statistical analysis and XGBoost / LSTM regression experiments.
-
----
-
-## 🎓 Education
-
-**M.Sc. in Financial Mathematics and Technology** | Bar-Ilan University | Expected Aug 2026
-Stochastic Calculus, Derivative Pricing Models, Quantitative Finance, Portfolio Theory
-
-**B.A. in Economics and Business Administration** | Ariel University | 2021 - 2024
-Econometrics, Financial Theory
 
 ---
 
